@@ -1,0 +1,3 @@
+Note :
+1. Always keep all the file templates, Flask API & model_1.h5(pre-trained model) in the same directory as Flask API.
+2. Make sure that you upload .PNG file only in the app and the background of hand writen digit should be white for accurate predictions.
