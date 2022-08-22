@@ -1,0 +1,3 @@
+Note :
+This is a .hmtl file for web application always makes sure its in the templates folder and in the same directory as API Flask, in order the template to load.
+If you want to see the code or edit the upload.html file open file using .py instead of .html
